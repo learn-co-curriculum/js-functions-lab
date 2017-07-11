@@ -32,4 +32,8 @@ person you're wishing well. This function should return the string
 parameters, the holiday name and number of days till that holiday. The function
 should return the string `` `It's ${days} days until ${holiday}!` ``
 
+**Note** Included is a common Javascript tests suite named Mocha. To run the tests, first run `npm install` to install dependencies then either `npm test` or `learn`
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-functions-lab'>Functions Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-functions-lab'>Functions in JS Lab</a> on Learn.co and start learning to code for free.</p>
